@@ -1,0 +1,101 @@
+﻿id_prestador;nome_prestador;tipo_prestador;especialidade;endereco;numero;bairro;cidade;estado
+1;Clínica Lopes;Clínica;Terapia;Ladeira de Cirino;5564;São Cristóvão;Anápolis;Goiás
+2;Laboratório Pastor Sá S/A;Laboratório;Diagnóstico por Imagem;Morro de Monteiro;8594;Solar Do Barreiro;Belo Horizonte;Minas Gerais
+3;Hospital Correia Ltda.;Hospital;Otorrinolaringologia;Vereda da Costa;3850;Atila De Paiva;Salvador;Bahia
+4;Hospital Porto S.A.;Hospital;Cardiologia;Colônia Isis Silva;6511;Vila Paraíso;Londrina;Paraná
+5;Laboratório Novaes - EI;Laboratório;Análises Clínicas;Estação de Ribeiro;433;Indaiá;Fortaleza;Ceará
+6;Hospital Oliveira;Hospital;Oncologia;Rua Maysa Cardoso;2393;Jardim Guanabara;Sobral;Ceará
+7;Clínica Vieira;Clínica;Terapia;Favela da Mata;1597;Jardim Alvorada;Pelotas;Rio Grande do Sul
+8;Clínica Cunha - EI;Clínica;Terapia;Estrada Maya Montenegro;4497;Nova Vista;Caxias do Sul;Rio Grande do Sul
+9;Clínica Jesus Farias S/A;Clínica;Terapia;Via de Casa Grande;4026;Aparecida;Juíz de Fora;Minas Gerais
+10;Laboratório Gonçalves S.A.;Laboratório;Diagnóstico por Imagem;Estrada Ana Julia das Neves;1167;Confisco;Recife;Pernambuco
+11;Clínica Mendonça - ME;Clínica;Terapia;Viela Gabrielly Pinto;7589;Vila São Dimas;Santos;São Paulo
+12;Hospital Sampaio;Hospital;Nefrologia;Feira Ravy Pacheco;6910;Santa Amelia;Niterói;Rio de Janeiro
+13;Hospital Montenegro;Hospital;Cardiologia;Trevo de Lima;9553;Mangueiras;Caruaru;Pernambuco
+14;Laboratório Ramos;Laboratório;Diagnóstico por Imagem;Vereda André Gomes;3388;Santa Inês;Criciúma;Santa Catarina
+15;Clínica da Mota Camargo - ME;Clínica;Terapia;Quadra Hellena Cassiano;7325;Minaslandia;Campinas;São Paulo
+16;Laboratório Sá;Laboratório;Diagnóstico por Imagem;Setor Azevedo;1787;Renascença;Santos;São Paulo
+17;Clínica Nascimento;Clínica;Terapia;Sítio de Sá;3385;Vila Oeste;Maringá;Paraná
+18;Hospital Mendes e Filhos;Hospital;Infectologia;Ladeira de Nascimento;7279;Vila Bandeirantes;Belo Horizonte;Minas Gerais
+19;Clínica Casa Grande Ltda.;Clínica;Terapia;Trevo Breno Fonseca;7121;Conjunto Lagoa;Salvador;Bahia
+20;Clínica Vieira Camargo Ltda.;Clínica;Terapia;Campo de Caldeira;9950;Aarão Reis;Joinville;Santa Catarina
+21;Clínica Souza da Conceição - ME;Clínica;Terapia;Recanto Vinicius Sampaio;9661;Coração De Jesus;Anápolis;Goiás
+22;Laboratório Gonçalves da Mata - EI;Laboratório;Análises Clínicas;Quadra da Mata;3100;Olhos D'água;Recife;Pernambuco
+23;Hospital Abreu - ME;Hospital;Gastroenterologia;Avenida Theodoro Rios;3683;Heliopolis;Caruaru;Pernambuco
+24;Clínica Gomes;Clínica;Terapia;Loteamento de Aragão;8949;Vila São Dimas;Caxias do Sul;Rio Grande do Sul
+25;Clínica Farias Vieira e Filhos;Clínica;Terapia;Lagoa Fogaça;8585;Candelaria;Pelotas;Rio Grande do Sul
+26;Clínica Araújo;Clínica;Terapia;Passarela Arthur Miguel Viana;415;Candelaria;Juíz de Fora;Minas Gerais
+27;Hospital Pinto;Hospital;Endoscopia;Distrito Aragão;6029;Madre Gertrudes;Goiânia;Goiás
+28;Hospital Lima e Filhos;Hospital;Infectologia;Estrada Nunes;6988;Aparecida;Pelotas;Rio Grande do Sul
+29;Clínica Alves;Clínica;Terapia;Sítio Matteo da Rosa;1659;São Gonçalo;Curitiba;Paraná
+30;Hospital Pacheco;Hospital;Pediatria;Lagoa Pereira;1802;Jaqueline;Maringá;Paraná
+31;Laboratório Freitas;Laboratório;Diagnóstico por Imagem;Fazenda Sophie Pimenta;581;Vale Do Jatoba;Santos;São Paulo
+32;Clínica Farias S.A.;Clínica;Terapia;Condomínio Rios;3975;Paulo Vi;Caruaru;Pernambuco
+33;Clínica da Luz S.A.;Clínica;Terapia;Largo de Melo;8019;Jaqueline;Criciúma;Santa Catarina
+34;Laboratório Aragão e Filhos;Laboratório;Diagnóstico por Imagem;Loteamento Moura;3702;Vila Cloris;Pelotas;Rio Grande do Sul
+35;Laboratório Duarte Aragão S/A;Laboratório;Análises Clínicas;Estrada Diego Teixeira;6397;São Vicente;Recife;Pernambuco
+36;Laboratório Camargo - EI;Laboratório;Diagnóstico por Imagem;Praia de Montenegro;2658;São Jorge 2ª Seção;Petrópolis;Rio de Janeiro
+37;Hospital Machado;Hospital;Cardiologia;Travessa Natália Alves;3620;Outro;Rio de Janeiro;Rio de Janeiro
+38;Clínica da Mota Vasconcelos - EI;Clínica;Terapia;Área da Costa;7656;Vila Real 2ª Seção;Juazeiro;Bahia
+39;Laboratório Campos;Laboratório;Análises Clínicas;Rua Leão;5080;Parque São José;Brasília;Distrito Federal
+40;Laboratório da Costa;Laboratório;Análises Clínicas;Rodovia Cirino;1662;Canadá;Salvador;Bahia
+41;Laboratório Lopes;Laboratório;Diagnóstico por Imagem;Vereda Aragão;8304;Vila Novo São Lucas;Caxias do Sul;Rio Grande do Sul
+42;Hospital Pinto - EI;Hospital;Pneumologia;Vereda Ísis das Neves;8496;Nova Gameleira;Caruaru;Pernambuco
+43;Clínica Pimenta;Clínica;Terapia;Largo de Vasconcelos;3368;Castelo;Anápolis;Goiás
+44;Hospital Sales;Hospital;Oncologia;Lagoa de Novais;2653;Vila Esplanada;Petrolina;Pernambuco
+45;Hospital Pereira;Hospital;Radiologia;Trecho de Correia;247;Nossa Senhora De Fátima;Juazeiro;Bahia
+46;Laboratório Sá;Laboratório;Análises Clínicas;Pátio Maria Laura Sampaio;3022;Vila Maria;Petrolina;Pernambuco
+47;Laboratório Leão e Filhos;Laboratório;Diagnóstico por Imagem;Colônia Yasmin Novais;1855;Cônego Pinheiro 1ª Seção;Vitória da Conquista;Bahia
+48;Laboratório Pinto e Filhos;Laboratório;Análises Clínicas;Viela Monteiro;3888;Minas Brasil;Anápolis;Goiás
+49;Clínica Carvalho Ltda.;Clínica;Terapia;Viaduto de Peixoto;8494;Cidade Jardim;Florianópolis;Santa Catarina
+50;Hospital da Luz;Hospital;Neurologia;Sítio Alves;3935;Pilar;Brasília;Distrito Federal
+51;Hospital Lima S.A.;Hospital;Infectologia;Recanto João Almeida;14;Nova Cintra;Curitiba;Paraná
+52;Laboratório Castro S.A.;Laboratório;Diagnóstico por Imagem;Favela Heloisa Cavalcante;7705;Maria Helena;Juazeiro;Bahia
+53;Hospital Rocha Peixoto S.A.;Hospital;Gastroenterologia;Núcleo Ferreira;3081;Caiçaras;Catalão;Goiás
+54;Hospital Oliveira;Hospital;Cardiologia;Quadra Lívia da Luz;4079;Santa Sofia;Juíz de Fora;Minas Gerais
+55;Laboratório Freitas Ltda.;Laboratório;Diagnóstico por Imagem;Sítio da Rosa;7312;Xodo-Marize;Criciúma;Santa Catarina
+56;Clínica Aragão Melo S/A;Clínica;Terapia;Jardim de Sousa;3557;Indaiá;Petrópolis;Rio de Janeiro
+57;Laboratório Lopes;Laboratório;Análises Clínicas;Chácara de Costa;8953;Teixeira Dias;Joinville;Santa Catarina
+58;Laboratório Sampaio Albuquerque e Filhos;Laboratório;Análises Clínicas;Favela da Rosa;4856;Marajó;Caruaru;Pernambuco
+59;Hospital Pires;Hospital;Ginecologia;Área Stella Rezende;4310;Boa União 1ª Seção;Rio de Janeiro;Rio de Janeiro
+60;Clínica Pimenta Sampaio S.A.;Clínica;Terapia;Pátio de Cirino;26;Pindorama;Florianópolis;Santa Catarina
+61;Laboratório Dias e Filhos;Laboratório;Diagnóstico por Imagem;Praça de Porto;9380;Santa Rita De Cássia;Caruaru;Pernambuco
+62;Hospital Araújo S.A.;Hospital;Otorrinolaringologia;Viela Albuquerque;7211;Barroca;Florianópolis;Santa Catarina
+63;Hospital Abreu Aparecida - EI;Hospital;Alergia e Imunologia;Chácara Viana;6830;Mariquinhas;Catalão;Goiás
+64;Hospital Duarte e Filhos;Hospital;Alergia e Imunologia;Largo Melo;4617;Vila Suzana Primeira Seção;Petrópolis;Rio de Janeiro
+65;Laboratório Aragão Vargas S.A.;Laboratório;Análises Clínicas;Conjunto de Vasconcelos;7742;Piratininga;Rio de Janeiro;Rio de Janeiro
+66;Laboratório Cardoso;Laboratório;Análises Clínicas;Jardim de Siqueira;3211;Eymard;Campinas;São Paulo
+67;Hospital Macedo e Filhos;Hospital;Endoscopia;Alameda Daniela Moraes;918;Vila Aeroporto Jaraguá;Curitiba;Paraná
+68;Hospital Jesus;Hospital;Oncologia;Vila Barbosa;4375;São Luiz;Santos;São Paulo
+69;Clínica Moreira;Clínica;Terapia;Residencial Ester Montenegro;831;Santa Terezinha;Sobral;Ceará
+70;Hospital Fogaça;Hospital;Oncologia;Núcleo de Pacheco;4693;Milionario;Caxias do Sul;Rio Grande do Sul
+71;Clínica Siqueira - ME;Clínica;Terapia;Parque de Macedo;9950;Tres Marias;Juíz de Fora;Minas Gerais
+72;Clínica da Rosa;Clínica;Terapia;Praça Fonseca;9253;Conjunto Lagoa;Florianópolis;Santa Catarina
+73;Laboratório da Cruz Santos - EI;Laboratório;Análises Clínicas;Viaduto de Araújo;2243;Carlos Prates;Salvador;Bahia
+74;Laboratório Macedo;Laboratório;Diagnóstico por Imagem;Praia Novais;1469;Etelvina Carneiro;Joinville;Santa Catarina
+75;Laboratório Mendes Duarte S/A;Laboratório;Análises Clínicas;Viela Bianca Fonseca;2297;Lagoinha Leblon;Niterói;Rio de Janeiro
+76;Hospital da Cunha - ME;Hospital;Infectologia;Viela João Pedro Castro;5351;Ventosa;Catalão;Goiás
+77;Clínica Silva;Clínica;Terapia;Jardim da Mota;6300;Cidade Jardim;Fortaleza;Ceará
+78;Hospital Sá;Hospital;Radiologia;Distrito de Farias;4909;Braúnas;Recife;Pernambuco
+79;Laboratório Rezende;Laboratório;Diagnóstico por Imagem;Quadra Yasmin Cassiano;8961;Garças;Londrina;Paraná
+80;Clínica da Luz S/A;Clínica;Terapia;Favela Câmara;9169;Vila Nova Gameleira 3ª Seção;Maringá;Paraná
+81;Clínica Oliveira S.A.;Clínica;Terapia;Ladeira Rodrigues;7046;Taquaril;Maringá;Paraná
+82;Hospital Sales;Hospital;Alergia e Imunologia;Feira de Cavalcante;2639;São Luiz;Joinville;Santa Catarina
+83;Hospital Martins S/A;Hospital;Pneumologia;Fazenda Alexandre Monteiro;6349;Céu Azul;Belo Horizonte;Minas Gerais
+84;Hospital Vasconcelos Costela Ltda.;Hospital;Pediatria;Favela Luiza Peixoto;3379;Flavio Marques Lisboa;São Paulo;São Paulo
+85;Clínica Camargo Caldeira S/A;Clínica;Terapia;Vale de Martins;7075;Pantanal;Curitiba;Paraná
+86;Laboratório Porto;Laboratório;Análises Clínicas;Feira de Costa;1869;Concórdia;Belo Horizonte;Minas Gerais
+87;Clínica Gonçalves;Clínica;Terapia;Sítio de Sousa;3073;Vila Olhos D'água;Uberlândia;Minas Gerais
+88;Hospital Araújo;Hospital;Infectologia;Estação de Viana;7680;Vila Dos Anjos;Santos;São Paulo
+89;Clínica Moreira;Clínica;Terapia;Travessa de Viana;8408;Vila Mangueiras;Londrina;Paraná
+90;Hospital Carvalho;Hospital;Pediatria;Loteamento Luiza Barros;5328;Vila Ipiranga;Londrina;Paraná
+91;Hospital Vieira Casa Grande - EI;Hospital;Infectologia;Trevo de Monteiro;381;Estoril;Belo Horizonte;Minas Gerais
+92;Laboratório Nunes;Laboratório;Análises Clínicas;Conjunto Alves;128;Novo Tupi;Campinas;São Paulo
+93;Hospital Leão - ME;Hospital;Pneumologia;Trecho Isaque Duarte;4370;Cdi Jatoba;Maringá;Paraná
+94;Hospital Vasconcelos;Hospital;Nefrologia;Loteamento Cassiano;8475;Cdi Jatoba;Juíz de Fora;Minas Gerais
+95;Laboratório Cirino;Laboratório;Análises Clínicas;Avenida de Leão;3272;Conjunto Serra Verde;Brasília;Distrito Federal
+96;Laboratório Martins Ltda.;Laboratório;Diagnóstico por Imagem;Distrito Brenda Cavalcante;2038;Virgínia;Salvador;Bahia
+97;Laboratório da Paz - EI;Laboratório;Análises Clínicas;Vila de Nascimento;6195;Vila Sumaré;Uberlândia;Minas Gerais
+98;Clínica Moura S.A.;Clínica;Terapia;Área de Martins;1275;Santa Amelia;Goiânia;Goiás
+99;Clínica Moraes;Clínica;Terapia;Trecho Maria Sophia Rocha;2047;Vila Esplanada;Joinville;Santa Catarina
+100;Hospital Castro;Hospital;Oncologia;Jardim Lima;9371;Buritis;Brasília;Distrito Federal
