@@ -1,4 +1,4 @@
-🏥 **Brazilian Health Plan — SQL Analytics Project**
+# 🏥 Brazilian Health Plan — SQL Analytics Project
 
 📊 **Overview**
 
